@@ -20,7 +20,6 @@ npm run dev in the root directory
 cd server && npm i
 cd server && npm start
 cd server && npm run watch
- Demo
-You can see a demo of the app run locally on this linkedin post: https://www.linkedin.com/posts/josu%C3%A9-mongan-a7b6242b8_websocket-realtimechatapp-fullstack-activity-7232853217909370880-JCX1?utm_source=share&utm_medium=member_desktop
- Hope you enjoy
+ 
+
 Have fun, leave a star if you like please and any contribution or improvement is welcome.
