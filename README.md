@@ -1,5 +1,6 @@
  Preview
 https://github.com/vaishh1803/PRODIGY_FS_04/commit/7e86d3250667523b876beb15e834c471cbeacf40 
+
 The project is a real-time chat app. It helped me explore websocket.
 
 The users have conversations and groups. They also have a profile to manage their information.
